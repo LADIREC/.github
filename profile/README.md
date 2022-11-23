@@ -1,5 +1,5 @@
 # Laboratoire d’analyse des discours et des récits collectifs
-![LADIREC](banner_ladirec.png)
+![banner_ladirec](https://user-images.githubusercontent.com/28898995/203628281-79216662-fa3d-4d39-aab8-39bfe3b15b7c.png)
 
 Membres: Pascal Brissette (PI), Julien Vallières-Gingras, Elisabeth Doyon, Lisa Teichmann, Amelie Ducharme, Yu Chen Shi
 
