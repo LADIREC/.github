@@ -85,6 +85,7 @@ De plus, à la demande de nos partenaires, nous prévoyons explorer l’analyse 
 ## Les ateliers de formation ouverts à tous
 En plus des projets, des ateliers d’nitiation à l’analyse de textes assistée par ordinateur sont donnés via les infrastructures pédagogiques à l’Université McGill afin de communiquer nos apprentissages à une plus grande communauté d’acteurs civiques et de membres de la communauté universitaire.
 ###### Programme 2023
+#### https://www.mcgill.ca/centre-montreal/fr/ateliers-ladirec-hiver-2023
 Du 12 janvier au 23 mars 2023, dans le cadre du Pôle d’analyse de données sociales, le LADIREC offrira six ateliers en ligne d’initiation aux méthodes et outils d’analyse de textes assistée par ordinateur. Donnés en français, ils sont spécifiquement orientés vers l’acquisition, la structuration, la manipulation, l’analyse et la visualisation des données textuelles.
 
 ### Les essentiels de la programmation : logique et raisonnement formel 
