@@ -26,18 +26,18 @@ Dans une visée pédagogique, des étudiant·e·s sont formé·e·s pour occuper
 
 ## Modèle de travail général – grand angle
 
-<img alt="image" src="https://user-images.githubusercontent.com/85407589/222464460-348ff93b-5e40-4caa-a2d2-a42db523afd7.png">
+<img alt="Modèle de travail général" class="center" src="https://user-images.githubusercontent.com/85407589/222464460-348ff93b-5e40-4caa-a2d2-a42db523afd7.png">
 
 ## Flux de traitement de la donnée – en bref
 Le flux de traitement du LADIREC présente des méthodes d’analyse de texte assistées par l’ordinateur (ATO) qui nécessite l’apport d’un analyste et un ensemble d’outil du traitement des langues naturelles pour arriver à explorer et analyser des grands corpus de texte en fonction de question de recherche. 
 Le projet pilote qui sert au développement se construit autour d’un corpus sur l’alimentation à Montréal. Voici une représentation de haut niveau de ce processus : 
 
-<img alt="image" src="https://user-images.githubusercontent.com/85407589/222462877-0a46cb11-47e6-4fc4-b791-371111cc8dbe.png">
+<img alt="Flux de traitement de la donnée – en bref" class="center" src="https://user-images.githubusercontent.com/85407589/222462877-0a46cb11-47e6-4fc4-b791-371111cc8dbe.png">
 
 ## Flux de traitement de la donnée – détaillé
 Voici de manière plus détaillée comment se s’articulent les ressources en données, en logiciel et les ressources humaines qui exploitent les outils d’analyse au sein du laboratoire :
 
-<img alt="image" src="https://user-images.githubusercontent.com/85407589/222463218-1eeaceaa-2f99-454b-886c-0c7f648615a5.png">
+<img alt="Flux de traitement de la donnée – détaillé" class="center" src="https://user-images.githubusercontent.com/85407589/222463218-1eeaceaa-2f99-454b-886c-0c7f648615a5.png">
 
 ## Les projets réalisés et en cours
 De manière générale, les projets en cours exploitent en totalité ou en partie la chaine de traitement du laboratoire en fonction de la pertinence des analyses et l’état des données d’origine.
