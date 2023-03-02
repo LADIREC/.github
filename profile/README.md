@@ -1,6 +1,6 @@
 # Laboratoire d’analyse des discours et des récits collectifs
-![banner_ladirec](https://user-images.githubusercontent.com/28898995/203628281-79216662-fa3d-4d39-aab8-39bfe3b15b7c.png)
 ###### Membres : Pascal Brissette (PI), Julien Vallières-Gingras, Lisa Teichmann, Yu Chen Shi, Elisabeth Doyon, Amélie Ducharme
+![banner_ladirec](https://user-images.githubusercontent.com/28898995/203628281-79216662-fa3d-4d39-aab8-39bfe3b15b7c.png)
 
 Le Laboratoire d’analyse des discours et des récits collectifs (LADIREC) vise à offrir à ses partenaires un appui dans la structuration, l’exploration et l’analyse des données textuelles dont ils disposent ainsi que des outils pour leur interprétation. Tirant profit de méthodologies et de processus de traitements informatiques développés par les chercheur·se·s en analyse des langues naturelles, il se greffe à l’Observatoire des enjeux sociaux de Montréal pour mieux comprendre les aspirations et les défis des citoyen·ne·s de la métropole, par quartiers et communautés.
 
